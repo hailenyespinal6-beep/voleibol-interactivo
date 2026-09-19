@@ -1,0 +1,7 @@
+{
+  "name": "VoleiEdu 6to - Academia y Juego de Voleibol",
+  "description": "Plataforma interactiva y educativa de voleibol para estudiantes de 6to grado con juego estructurado a 10 puntos, módulos de aprendizaje, trivias deportivas y certificado de culminación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
